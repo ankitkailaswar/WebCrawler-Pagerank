@@ -41,9 +41,9 @@ Webcrawler distributed mode :
 
 Sample crawling :
 =====
-[Wikipedia page rank](src/main/resources/en.wikipedia.com.csv)
+[Wikipedia page rank](src/main/resources/en.wikipedia.com_sample.csv)
 
-[Amazon UK page rank](src/main/resources/www.amazon.co.uk.csv)
+[Amazon UK page rank](src/main/resources/www.amazon.co.uk_sample.csv)
 
 Assumptions :
 =====
