@@ -43,7 +43,7 @@ Sample crawling :
 =====
 [Wikipedia page rank](src/main/resources/en.wikipedia.com.csv)
 
-[Amazon UK page rank](src/main/resources/www.amazon.co.uk.txt)
+[Amazon UK page rank](src/main/resources/www.amazon.co.uk.csv)
 
 Assumptions :
 =====
