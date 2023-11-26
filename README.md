@@ -39,6 +39,11 @@ Webcrawler distributed mode :
 =====
 ![](distributed_mode.png)
 
+Sample crawling :
+=====
+[wikipedia page rank](src/main/resources/en.wikipedia.com.txt)
+
+[Amazon UK page rank](src/main/resources/www.amazon.co.uk.txt)
 
 Assumptions :
 =====
