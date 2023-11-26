@@ -32,12 +32,12 @@ following links:
 
 Webcrawler local mode :
 =====
-![](WebCrawler-single host mode.drawio.png)
+![](single_host_mode.png)
 
 
 Webcrawler distributed mode :
 =====
-![](WebCrawler-distributed mode.drawio.png)
+![](distributed_mode.png)
 
 
 Assumptions :
