@@ -41,7 +41,7 @@ Webcrawler distributed mode :
 
 Sample crawling :
 =====
-[wikipedia page rank](src/main/resources/en.wikipedia.com.txt)
+[Wikipedia page rank](src/main/resources/en.wikipedia.com.txt)
 
 [Amazon UK page rank](src/main/resources/www.amazon.co.uk.txt)
 
